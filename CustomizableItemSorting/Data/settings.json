@@ -1,0 +1,482 @@
+{
+  "Weapons": {
+    "Formatting": "$type - $name",
+    "SortingEntries": {
+      "Iron": {
+        "StringKeys": [],
+        "Keywords": [
+          "01E718:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "iron "
+        ]
+      },
+      "Steel": {
+        "StringKeys": [],
+        "Keywords": [
+          "01E719:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "steel "
+        ]
+      },
+      "Dwarven": {
+        "StringKeys": [],
+        "Keywords": [
+          "01E71A:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "dwarven "
+        ]
+      },
+      "Elven": {
+        "StringKeys": [],
+        "Keywords": [
+          "01E71B:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "elven "
+        ]
+      },
+      "Orcish": {
+        "StringKeys": [],
+        "Keywords": [
+          "01E71C:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "orcish "
+        ]
+      },
+      "Glass": {
+        "StringKeys": [],
+        "Keywords": [
+          "01E71D:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "glass "
+        ]
+      },
+      "Ebony": {
+        "StringKeys": [],
+        "Keywords": [
+          "01E71E:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "ebony "
+        ]
+      },
+      "Stalhrim": {
+        "StringKeys": [],
+        "Keywords": [
+          "02622F:Dragonborn.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "stalhrim "
+        ]
+      },
+      "Daedric": {
+        "StringKeys": [],
+        "Keywords": [
+          "01E71F:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "daedric "
+        ]
+      },
+      "Dragonbone": {
+        "StringKeys": [],
+        "Keywords": [
+          "019822:Dawnguard.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "dragonbone "
+        ]
+      },
+      "Unique": {
+        "StringKeys": [],
+        "Keywords": [
+          "0C27BD:Skyrim.esm",
+          "0A8668:Skyrim.esm",
+          "0917E8:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": []
+      },
+      "Nordic": {
+        "StringKeys": [],
+        "Keywords": [
+          "026230:Dragonborn.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "nordic "
+        ]
+      },
+      "Arrow": {
+        "StringKeys": [
+          " arrow"
+        ],
+        "Keywords": [],
+        "EDIDS": [],
+        "StringsToRemove": [
+          " arrow"
+        ]
+      },
+      "Bolt": {
+        "StringKeys": [
+          " bolt"
+        ],
+        "Keywords": [],
+        "EDIDS": [],
+        "StringsToRemove": [
+          " bolt"
+        ]
+      }
+    }
+  },
+  "Armors": {
+    "Formatting": "$type - $name",
+    "SortingEntries": {
+      "Iron": {
+        "StringKeys": [
+          "iron"
+        ],
+        "Keywords": [
+          "06BBE3:Skyrim.esm",
+          "06BBE4:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "iron "
+        ]
+      },
+      "Steel": {
+        "StringKeys": [
+          "steel"
+        ],
+        "Keywords": [
+          "06BBE6:Skyrim.esm",
+          "06BBE7:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "steel "
+        ]
+      },
+      "Bonemold": {
+        "StringKeys": [
+          "bonemold"
+        ],
+        "Keywords": [
+          "024100:Dragonborn.esm",
+          "024101:Dragonborn.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "bonemold "
+        ]
+      },
+      "Chitin": {
+        "StringKeys": [
+          "chitin"
+        ],
+        "Keywords": [
+          "024103:Dragonborn.esm",
+          "024102:Dragonborn.esm",
+          "03A328:Dragonborn.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "chitin "
+        ]
+      },
+      "Dwarven": {
+        "StringKeys": [
+          "dwarven"
+        ],
+        "Keywords": [
+          "06BBD7:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "dwarven "
+        ]
+      },
+      "Elven": {
+        "StringKeys": [
+          "elven"
+        ],
+        "Keywords": [
+          "06BBDA:Skyrim.esm",
+          "06BBD9:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "elven "
+        ]
+      },
+      "Orcish": {
+        "StringKeys": [
+          "orcish"
+        ],
+        "Keywords": [
+          "06BBE5:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "orcish "
+        ]
+      },
+      "Glass": {
+        "StringKeys": [
+          "glass"
+        ],
+        "Keywords": [
+          "06BBDC:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "glass "
+        ]
+      },
+      "Ebony": {
+        "StringKeys": [
+          "ebony"
+        ],
+        "Keywords": [
+          "06BBD8:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "ebony"
+        ]
+      },
+      "Stalhrim": {
+        "StringKeys": [
+          "stalhrim"
+        ],
+        "Keywords": [
+          "024107:Dragonborn.esm",
+          "024106:Dragonborn.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "stalhrim "
+        ]
+      },
+      "Nordic": {
+        "StringKeys": [
+          "nord"
+        ],
+        "Keywords": [
+          "024104:Dragonborn.esm",
+          "024105:Dragonborn.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "nordic "
+        ]
+      },
+      "Daedric": {
+        "StringKeys": [
+          "daedric"
+        ],
+        "Keywords": [
+          "06BBD4:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "daedric "
+        ]
+      },
+      "Dragonbone": {
+        "StringKeys": [
+          "dragonbone",
+          "dragon bone"
+        ],
+        "Keywords": [
+          "06BBD5:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "dragonbone "
+        ]
+      },
+      "Unique": {
+        "StringKeys": [],
+        "Keywords": [
+          "0C27BD:Skyrim.esm",
+          "0A8668:Skyrim.esm",
+          "0917E8:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": []
+      },
+      "Leather": {
+        "StringKeys": [
+          "leather"
+        ],
+        "Keywords": [
+          "06BBDB:Skyrim.esm",
+          "0009BF:Update.esm",
+          "0009BC:Update.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "leather "
+        ]
+      },
+      "Scale": {
+        "StringKeys": [],
+        "Keywords": [
+          "06BBDE:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "scaled ",
+          "scale "
+        ]
+      },
+      "Dragonscale": {
+        "StringKeys": [
+          "dragonscale"
+        ],
+        "Keywords": [
+          "06BBD6:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": [
+          "dragonscale "
+        ]
+      }
+    }
+  },
+  "Magic": {
+    "Formatting": "$type: $name",
+    "SortingEntries": {
+      "Fire": {
+        "StringKeys": [],
+        "Keywords": [
+          "01CEAD:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": []
+      },
+      "Frost": {
+        "StringKeys": [],
+        "Keywords": [
+          "01CEAE:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": []
+      },
+      "Shock": {
+        "StringKeys": [],
+        "Keywords": [
+          "01CEAF:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": []
+      },
+      "Armor": {
+        "StringKeys": [
+          "armor"
+        ],
+        "Keywords": [
+          "01EA72:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": []
+      },
+      "Heal": {
+        "StringKeys": [
+          "heal"
+        ],
+        "Keywords": [
+          "01CEB0:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": []
+      },
+      "Drain": {
+        "StringKeys": [
+          "absorb",
+          "drain"
+        ],
+        "Keywords": [],
+        "EDIDS": [],
+        "StringsToRemove": []
+      }
+    }
+  },
+  "Consumables": {
+    "Formatting": "$type: $name",
+    "SortingEntries": {
+      "Health": {
+        "StringKeys": [
+          "health",
+          "healing"
+        ],
+        "Keywords": [],
+        "EDIDS": [],
+        "StringsToRemove": []
+      },
+      "Stamina": {
+        "StringKeys": [
+          "stamina"
+        ],
+        "Keywords": [],
+        "EDIDS": [],
+        "StringsToRemove": []
+      },
+      "Magicka": {
+        "StringKeys": [
+          "magicka"
+        ],
+        "Keywords": [],
+        "EDIDS": [],
+        "StringsToRemove": []
+      },
+      "Resist": {
+        "StringKeys": [
+          "resist"
+        ],
+        "Keywords": [
+          "10EB5F:Skyrim.esm",
+          "065A3A:Skyrim.esm",
+          "065A39:Skyrim.esm",
+          "065A38:Skyrim.esm",
+          "065A37:Skyrim.esm"
+        ],
+        "EDIDS": [],
+        "StringsToRemove": []
+      }
+    }
+  },
+  "Scrolls": {
+    "Formatting": "$type $name",
+    "SortingEntries": {}
+  },
+  "Ingredients": {
+    "Formatting": "$type $name",
+    "SortingEntries": {}
+  },
+  "Books": {
+    "Formatting": "$type $name",
+    "SortingEntries": {}
+  },
+  "Misc": {
+    "Formatting": "$type $name",
+    "SortingEntries": {}
+  }
+}

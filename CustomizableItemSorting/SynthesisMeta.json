@@ -1,0 +1,8 @@
+{
+  "Nickname": "CustomizableItemSorting",
+  "Visibility": "Visible",
+  "OneLineDescription": "Allows for sorting items into user-defined categories.",
+  "LongDescription": "Allows for sorting items into user-defined categories.",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": []
+}
